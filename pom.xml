@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.carpibus</groupId>
-	<artifactId>CarpiBus</artifactId>
+	<artifactId>CarpiBus-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CarpiBus</name>
+	<name>CarpiBus-backend</name>
 	<description>Proyecto CarpiBus </description>
 	<url/>
 	<licenses>

@@ -1,13 +1,13 @@
-package com.carpibus;
+package com.carpibus.CarpiBus_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarpiBusApplication {
+public class CarpiBusBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarpiBusApplication.class, args);
+		SpringApplication.run(CarpiBusBackendApplication.class, args);
 	}
 
 }

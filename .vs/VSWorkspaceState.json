@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\carpibus"
   ],
-  "SelectedNode": "\\C:\\Users\\nycko\\source\\repos\\NyckoRBC1996\\CarpiBus-backend",
+  "SelectedNode": "\\src\\main\\java\\com\\carpibus\\CarpiBusApplication.java",
   "PreviewInSolutionExplorer": false
 }
